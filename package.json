@@ -24,7 +24,7 @@
     "angular-cc-library": "^1.2.5",
     "angular-credit-cards": "^3.1.8",
     "bootstrap": "^4.3.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "ng-click-outside": "^5.1.1",
     "ng2-animate-on-scroll": "^1.1.0",
     "ngx-credit-cards": "^1.0.9",
